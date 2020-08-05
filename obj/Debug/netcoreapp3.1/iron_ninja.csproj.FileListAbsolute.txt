@@ -1,0 +1,12 @@
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.csprojAssemblyReference.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.AssemblyInfoInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.AssemblyInfo.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.csproj.CoreCompileInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/bin/Debug/netcoreapp3.1/iron_ninja.deps.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/bin/Debug/netcoreapp3.1/iron_ninja.runtimeconfig.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/bin/Debug/netcoreapp3.1/iron_ninja.runtimeconfig.dev.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/bin/Debug/netcoreapp3.1/iron_ninja.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/bin/Debug/netcoreapp3.1/iron_ninja.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/iron_ninja/obj/Debug/netcoreapp3.1/iron_ninja.genruntimeconfig.cache
